@@ -1,0 +1,1 @@
+The purpose of this project is to analyze a dataset containing data about Covid-19. I have  build tools/functionality that will help analyze the dataset and use those tools to get insights about the spreading of the virus.
